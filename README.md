@@ -36,8 +36,6 @@ This data set was further reduced to show only rows where helpful_votes was grea
 
 Two new Pandas DataFramse were created to retrieve all rows where the review was part of the Vine program and to retrieve all rows where the review was not part of the Vine program.  This resulted in 91 paid reviews and 7,710 unpaid reviews.
 
-Paid Reviews              |  Unpaid Reviews
-:------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/73897240/112730588-c86c8e80-8f08-11eb-80e2-95a9584d635f.PNG)  |  ![](https://user-images.githubusercontent.com/73897240/112730710-72e4b180-8f09-11eb-872c-d022225c26f8.PNG)
 
 
