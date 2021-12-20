@@ -6,12 +6,16 @@ Data analysts were tasked with analyzing Amazon reviews written by members of th
 Data from Amazon's Lawn and Garden department was analyzed to determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.  The Extract, Transform, and Load (ETL) process was used on the Amazon Lawn and Garden dataset.  An AWS RDS database was create and the Lawn and Garden dataset was uploaded into an S3 bucket.  pgAdmin was utilized to connect to AWS, and pySpark and postgreSQL were used against the data set to create four separate DataFrames to match the table schema in pgAdmin.  The transformed data was then uploaded into AWS RDS. 
 
 
-## Resources
-- AWS                     - Pandas
-- RDS                     - Google Colaboratory
-- S3                      - Jupyter Notebook
-- Python                  - pgAdmin
-- pySpark                 - Data
+## Resource
+- AWS                     
+- RDS                     
+- S3                      
+- Python                  
+- pySpark    
+- pgAdmin  
+- Jupyter Notebook
+- Google Colaboratory
+- Pandas        
                  
 
 ## Results
