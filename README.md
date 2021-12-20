@@ -39,20 +39,6 @@ Two new Pandas DataFramse were created to retrieve all rows where the review was
 ![](https://user-images.githubusercontent.com/73897240/112730588-c86c8e80-8f08-11eb-80e2-95a9584d635f.PNG)  |  ![](https://user-images.githubusercontent.com/73897240/112730710-72e4b180-8f09-11eb-872c-d022225c26f8.PNG)
 
 
-Of the paid Vine reviews, only 43 were 5-star reviews.  Out of the unpaid reviews, 4,040 were 5-star reviews.
-
-Paid 5-Star Reviews       |  Unpaid 5-Star Reviews
-:------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/73897240/112730825-0ae29b00-8f0a-11eb-9ccd-57c99be966b7.PNG)|![](https://user-images.githubusercontent.com/73897240/112730847-3796b280-8f0a-11eb-958b-b22ddf73393c.PNG)
-
-
-Paid Vine 5-star reviews accounted for 47.25% of the data, whereas 52.4% were unpaid 5-star reviews.
-
-% of Paid 5-Star Reviews  |  % of Unpaid 5-Star Reviews
-:------------------------:|:---------------------------:
-![](https://user-images.githubusercontent.com/73897240/112730973-ea671080-8f0a-11eb-993c-a30d45c5f1f6.PNG)|![](https://user-images.githubusercontent.com/73897240/112730988-010d6780-8f0b-11eb-9d3d-ce2ec0ef8016.PNG)
-
-
 ## Summary
 Based on analysis of the sample selected from the Amazon Lawn and Garden reviews, Vine reviews did not appear to affect 5-star reviews.  There were slightly more 5-star reviews from unpaid reviews.
 
