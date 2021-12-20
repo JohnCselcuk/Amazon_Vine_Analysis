@@ -43,3 +43,7 @@ Two new Pandas DataFramse were created to retrieve all rows where the review was
 Based on analysis of the sample selected from the Amazon Lawn and Garden reviews, Vine reviews did not appear to affect 5-star reviews.  There were slightly more 5-star reviews from unpaid reviews.
 
 Additional analysis should be conducted against multiple Amazon review datasets, with the same parameters that were used against the Lawn and Garden dataset.  Other datasets could show that Vine reviews are more likely to give 5-star product reviews.  It would also be interesting to determine if male or female are more likely to leave a review in general versus how likely are they to leave a 5-star review as a Vine member or unpaid reviews.  
+
+Thank you for your time,
+
+John
