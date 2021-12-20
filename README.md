@@ -8,18 +8,15 @@ Data from Amazon's Lawn and Garden department was analyzed to determine if havin
 
 ## Resources
 - AWS
-    - RDS
-    - S3
+- RDS
+- S3
 - Python
-    - pySpark
-    - Pandas
+- pySpark
+- Pandas
 - Google Colaboratory
 - Jupyter Notebook
 - pgAdmin
 - Data
-    - [Amazon Lawn and Garden dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
-    - [Vine Table](https://github.com/acfthomson/Amazon_Vine_Analysis/blob/main/vine_table.csv)
-
 
 ## Results
 The Vine table was exported from pgAdmin and Python Pandas was used against the data.  The Vine table contained 1,048,575 rows of data.
