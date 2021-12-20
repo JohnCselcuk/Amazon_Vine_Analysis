@@ -7,16 +7,12 @@ Data from Amazon's Lawn and Garden department was analyzed to determine if havin
 
 
 ## Resources
-- AWS
-- RDS
-- S3
-- Python
-- pySpark
-- Pandas
-- Google Colaboratory
-- Jupyter Notebook
-- pgAdmin
-- Data
+- AWS                     - Pandas
+- RDS                     - Google Colaboratory
+- S3                      - Jupyter Notebook
+- Python                  - pgAdmin
+- pySpark                 - Data
+                 
 
 ## Results
 The Vine table was exported from pgAdmin and Python Pandas was used against the data.  The Vine table contained 1,048,575 rows of data.
